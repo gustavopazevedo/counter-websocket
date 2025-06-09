@@ -1,0 +1,40 @@
+.counter * {
+  box-sizing: border-box;
+}
+
+.counter {
+  background-color: #444;
+  border-radius: 10px;
+  max-width: 400px;
+  padding: 30px;
+  width: 100%;
+}
+
+.counter__title {
+  font-size: 32px;
+  line-height: 100%;
+  margin: 0;
+  text-align: center;
+  width: 100%;
+}
+
+.counter__count {
+  font-size: 48px;
+  font-weight: bold;
+  margin: 10px 0;
+  text-align: center;
+}
+
+.counter__button {
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 24px;
+  font-weight: bold;
+  height: 40px;
+  width: 100%;
+}
+
+.counter__button:hover {
+  border: 1px solid #ddd
+}
