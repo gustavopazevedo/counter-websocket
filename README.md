@@ -15,6 +15,8 @@ This project is a code challenge and uses React with Vite and WebSocket to sync 
 4. Dictionary with all message keys as a single source of truth
 5. Add some king of authentication and have a state for the user
 
+### Screen Recording URL
+https://www.loom.com/share/dc50c8f7f96549c482864e2504ca8945?sid=e743fa9b-1c08-40e4-a860-9fb33be4d727
 
 #### Thanks
 
