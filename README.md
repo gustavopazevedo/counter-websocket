@@ -8,5 +8,13 @@ This project is a code challenge and uses React with Vite and WebSocket to sync 
 ### Running the React / Vite
 1. In the root directory run `npm run dev` and check the port that was assigned, usually is `http://localhost:5173/`
 
+### Things to improve / add
+1. Better UI (I focused on the whole functionality)
+2. Handle errors for the WebSocket server and the React app
+3. Implementation of a wss server to be secure
+4. Dictionary with all message keys as a single source of truth
+5. Add some king of authentication and have a state for the user
 
+
+#### Thanks
 
