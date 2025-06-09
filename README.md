@@ -14,6 +14,7 @@ This project is a code challenge and uses React with Vite and WebSocket to sync 
 3. Implementation of a wss server to be secure
 4. Dictionary with all message keys as a single source of truth
 5. Add some king of authentication and have a state for the user
+6. Add persistence for the count state (localStorage or some external API)
 
 ### Screen Recording URL
 https://www.loom.com/share/dc50c8f7f96549c482864e2504ca8945?sid=e743fa9b-1c08-40e4-a860-9fb33be4d727
